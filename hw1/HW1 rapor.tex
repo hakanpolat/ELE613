@@ -20,15 +20,37 @@
 \usepackage[colorlinks=true,linkcolor=black, urlcolor=blue]{hyperref}
 \setlength{\tabcolsep}{20pt}
 
-
+\pagenumbering{gobble}
 
 
 
 \begin{document}
+\begin{titlepage}
+	\begin{center}
+		
+		\includegraphics[scale=0.7]{hulogo}\\
+		\vspace{1cm}
+		\large\textbf{ELE 613}\\
+		\vspace{0.5cm}
+		\large\textbf{SWITCH MODE POWER SUPPLIES}\\ 
+		\vspace{0.5cm}
+		
+		\small\textbf{HOMEWORK 1}\\
 
-\tableofcontents
+		\vspace{0.5cm}
+		
+		\vspace{0.5cm}
+		
+		\line(1,0){400}\\
+		\vspace{0.5cm}
+	    \Large\textbf{HAKAN POLAT} 
+	\end{center}
+	
+
+\end{titlepage}
 \newpage
-\section{Introduction}
+
+
 
 \begin{figure}[H]
 	\centering
@@ -36,7 +58,7 @@
 	\caption{ Buck Boost Simulink Model}
 	\label{fig:buck-boost-simulink-model}
 \end{figure}
-
+Figure \ref{fig:buck-boost-simulink-model} shows the Simulink model built for the buck-boost converter.
 
 \section{Question 1}
 
@@ -152,6 +174,7 @@ THD is found to be \%94.
 	\label{fig:statistics}
 \end{figure}
 
+The peak-to-peak voltage is found to be 0.23 V from Figure \ref{fig:statistics}.
 
 \newpage\section{Question 6}
 
@@ -164,6 +187,9 @@ THD is found to be \%94.
 	\label{fig:ekran-alnts}
 \end{figure}
 
+\begin{equation}
+	\dfrac{I_{c,rms}}{I_{out}}=\dfrac{1.374}{3.18}= 0.43
+\end{equation}
 
 
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.6)  1 NOV 2018 18:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.6)  22 NOV 2018 19:41
 entering extended mode
 **"./HW1 rapor.tex"
 ("HW1 rapor.tex"
@@ -619,23 +619,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip59
-) ("HW1 rapor.aux"
-
-LaTeX Warning: Label `fig:vl' multiply defined.
-
-
-LaTeX Warning: Label `fig:il' multiply defined.
-
-
-LaTeX Warning: Label `fig:vout' multiply defined.
-
-
-LaTeX Warning: Label `fig:vl' multiply defined.
-
-
-LaTeX Warning: Label `fig:il' multiply defined.
-
-)
+) ("HW1 rapor.aux")
 \openout1 = `"HW1 rapor.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -652,7 +636,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
- ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 27.
@@ -727,7 +712,7 @@ LaTeX Info: Redefining \nameref on input line 27.
 \@outlinefile=\write3
 \openout3 = `"HW1 rapor.out"'.
 
-<hulogo.jpg, id=27, 612.6087pt x 311.2428pt>
+<hulogo.jpg, id=23, 612.6087pt x 311.2428pt>
 File: hulogo.jpg Graphic file (type jpg)
 <use hulogo.jpg>
 Package pdftex.def Info: hulogo.jpg  used on input line 31.
@@ -736,189 +721,103 @@ Package pdftex.def Info: hulogo.jpg  used on input line 31.
 
 {C:/Users/user/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./hulogo.jpg
 >]
-<"Buck Boost Simulink Model".png, id=35, 1129.21875pt x 624.08156pt>
-File: "Buck Boost Simulink Model".png Graphic file (type png)
-<use "Buck Boost Simulink Model".png>
-Package pdftex.def Info: "Buck Boost Simulink Model".png  used on input line 57
-.
-(pdftex.def)             Requested size: 312.97423pt x 284.52892pt.
-<q1/V_L.png, id=38, 922.94812pt x 454.69875pt>
-File: q1/V_L.png Graphic file (type png)
-<use q1/V_L.png>
-Package pdftex.def Info: q1/V_L.png  used on input line 68.
-(pdftex.def)             Requested size: 398.33867pt x 227.62633pt.
-<q1/I_L.png, id=39, 790.45313pt x 418.56375pt>
-File: q1/I_L.png Graphic file (type png)
-<use q1/I_L.png>
-Package pdftex.def Info: q1/I_L.png  used on input line 74.
-(pdftex.def)             Requested size: 398.3374pt x 227.61774pt.
+<model.png, id=33, 979.40906pt x 560.0925pt>
+File: model.png Graphic file (type png)
+<use model.png>
+Package pdftex.def Info: model.png  used on input line 70.
+(pdftex.def)             Requested size: 375.80544pt x 214.90556pt.
+<../q1/i_L.png, id=37, 539.01375pt x 341.77687pt>
+File: ../q1/i_L.png Graphic file (type png)
+<use ../q1/i_L.png>
+Package pdftex.def Info: ../q1/i_L.png  used on input line 80.
+(pdftex.def)             Requested size: 431.21158pt x 273.42186pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77 \end{figure}
-                  [1 <./Buck Boost Simulink Model.png>]
-<q1/vout.png, id=46, 794.97pt x 358.33875pt>
-File: q1/vout.png Graphic file (type png)
-<use q1/vout.png>
-Package pdftex.def Info: q1/vout.png  used on input line 80.
-(pdftex.def)             Requested size: 398.34528pt x 227.62459pt.
-<q1/Iout.png, id=47, 804.00375pt x 494.59781pt>
-File: q1/Iout.png Graphic file (type png)
-<use q1/Iout.png>
-Package pdftex.def Info: q1/Iout.png  used on input line 86.
-(pdftex.def)             Requested size: 398.33273pt x 227.61586pt.
+l.84 
+      [1 <./model.png>]
+<../q1/Voi.png, id=48, 421.575pt x 298.11375pt>
+File: ../q1/Voi.png Graphic file (type png)
+<use ../q1/Voi.png>
+Package pdftex.def Info: ../q1/Voi.png  used on input line 88.
+(pdftex.def)             Requested size: 337.26045pt x 238.49132pt.
+<../q2/v1.png, id=52, 1433.355pt x 707.64375pt>
+File: ../q2/v1.png Graphic file (type png)
+<use ../q2/v1.png>
+Package pdftex.def Info: ../q2/v1.png  used on input line 97.
+(pdftex.def)             Requested size: 430.00983pt x 212.29475pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.89 \end{figure}
-                  [2 <./q1/V_L.png> <./q1/I_L.png>]
-<q1/I_CAP.png, id=55, 900.36375pt x 375.65344pt>
-File: q1/I_CAP.png Graphic file (type png)
-<use q1/I_CAP.png>
-Package pdftex.def Info: q1/I_CAP.png  used on input line 92.
-(pdftex.def)             Requested size: 398.34569pt x 227.62354pt.
+l.100 \end{figure}
+                   [2 <../q1/i_L.png (PNG copy)> <../q1/Voi.png (PNG copy)>]
+<../q2/i3_d3.png, id=57, 1433.355pt x 707.64375pt>
+File: ../q2/i3_d3.png Graphic file (type png)
+<use ../q2/i3_d3.png>
+Package pdftex.def Info: ../q2/i3_d3.png  used on input line 104.
+(pdftex.def)             Requested size: 430.00983pt x 212.29475pt.
+<"../q2/switch current".png, id=58, 421.575pt x 298.11375pt>
+File: "../q2/switch current".png Graphic file (type png)
+<use "../q2/switch current".png>
+Package pdftex.def Info: "../q2/switch current".png  used on input line 111.
+(pdftex.def)             Requested size: 337.26045pt x 238.49132pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 
-      [3 <./q1/vout.png> <./q1/Iout.png>]pdfTeX warning (ext4): destination wit
-h the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.98 \newpage
-              [4 <./q1/I_CAP.png>]
-<q2/HarmonikFFT.png, id=68, 986.18437pt x 722.7pt>
-File: q2/HarmonikFFT.png Graphic file (type png)
-<use q2/HarmonikFFT.png>
-Package pdftex.def Info: q2/HarmonikFFT.png  used on input line 102.
-(pdftex.def)             Requested size: 398.33408pt x 227.61862pt.
+l.115 
+       [3 <../q2/v1.png (PNG copy)> <../q2/i3_d3.png (PNG copy)>]
+<../q3/v1_graph.png, id=65, 420.82219pt x 319.94531pt>
+File: ../q3/v1_graph.png Graphic file (type png)
+<use ../q3/v1_graph.png>
+Package pdftex.def Info: ../q3/v1_graph.png  used on input line 121.
+(pdftex.def)             Requested size: 328.82707pt x 250.00546pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.109 \newpage
-              \section{Question 3} [5 <./q2/HarmonikFFT.png>]
-<q3/VL.png, id=74, 911.65594pt x 453.19313pt>
-File: q3/VL.png Graphic file (type png)
-<use q3/VL.png>
-Package pdftex.def Info: q3/VL.png  used on input line 113.
-(pdftex.def)             Requested size: 455.82686pt x 226.59601pt.
-<q3/IL.png, id=75, 781.41937pt x 364.36125pt>
-File: q3/IL.png Graphic file (type png)
-<use q3/IL.png>
-Package pdftex.def Info: q3/IL.png  used on input line 119.
-(pdftex.def)             Requested size: 390.70872pt x 182.18018pt.
+l.126 
+       [4 <../q2/switch current.png (PNG copy)> <../q3/v1_graph.png>]
+<../q3/v1_avg.png, id=73, 137.7647pt x 46.67438pt>
+File: ../q3/v1_avg.png Graphic file (type png)
+<use ../q3/v1_avg.png>
+Package pdftex.def Info: ../q3/v1_avg.png  used on input line 136.
+(pdftex.def)             Requested size: 137.76434pt x 46.67424pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.125 \newpage
-              \section{Question 4} [6 <./q3/VL.png> <./q3/IL.png>]
-<Q4/yeni/VOUT.png, id=84, 998.9822pt x 522.45187pt>
-File: Q4/yeni/VOUT.png Graphic file (type png)
-<use Q4/yeni/VOUT.png>
-Package pdftex.def Info: Q4/yeni/VOUT.png  used on input line 129.
-(pdftex.def)             Requested size: 398.33586pt x 227.62346pt.
-<Q4/yeni/VL.png, id=85, 1115.66812pt x 589.4522pt>
-File: Q4/yeni/VL.png Graphic file (type png)
-<use Q4/yeni/VL.png>
-Package pdftex.def Info: Q4/yeni/VL.png  used on input line 135.
-(pdftex.def)             Requested size: 398.33762pt x 227.61887pt.
-<Q4/yeni/VLzoom.png, id=86, 911.65594pt x 447.92343pt>
-File: Q4/yeni/VLzoom.png Graphic file (type png)
-<use Q4/yeni/VLzoom.png>
-Package pdftex.def Info: Q4/yeni/VLzoom.png  used on input line 141.
-(pdftex.def)             Requested size: 398.3477pt x 227.61775pt.
-<Q4/yeni/IL.png, id=87, 1038.12843pt x 576.65437pt>
-File: Q4/yeni/IL.png Graphic file (type png)
-<use Q4/yeni/IL.png>
-Package pdftex.def Info: Q4/yeni/IL.png  used on input line 147.
-(pdftex.def)             Requested size: 398.32631pt x 227.622pt.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.150 \end{figure}
-                   [7 <./Q4/yeni/VOUT.png> <./Q4/yeni/VL.png>]
-<Q4/yeni/ILZOOM_DCM.png, id=95, 1038.88126pt x 574.39594pt>
-File: Q4/yeni/ILZOOM_DCM.png Graphic file (type png)
-<use Q4/yeni/ILZOOM_DCM.png>
-Package pdftex.def Info: Q4/yeni/ILZOOM_DCM.png  used on input line 153.
-(pdftex.def)             Requested size: 398.32983pt x 227.61574pt.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.157 
-       [8 <./Q4/yeni/VLzoom.png> <./Q4/yeni/IL.png>]pdfTeX warning (ext4): dest
-ination with the same identifier (name{page.}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.161 \newpage
-              \section{Question 5} [9 <./Q4/yeni/ILZOOM_DCM.png>]
-<"q5/peak to peak output voltage".png, id=108, 1446.15282pt x 709.14937pt>
-File: "q5/peak to peak output voltage".png Graphic file (type png)
-<use "q5/peak to peak output voltage".png>
-Package pdftex.def Info: "q5/peak to peak output voltage".png  used on input li
-ne 165.
-(pdftex.def)             Requested size: 398.34422pt x 227.61414pt.
-<q5/statistics.png, id=109, 209.28188pt x 141.52875pt>
-File: q5/statistics.png Graphic file (type png)
-<use q5/statistics.png>
-Package pdftex.def Info: q5/statistics.png  used on input line 172.
-(pdftex.def)             Requested size: 398.3358pt x 227.64052pt.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.179 \newpage
-              \section{Question 6} [10 <./q5/peak to peak output voltage.png> <
-./q5/statistics.png>]
-<"q6/rmscalc".png, id=118, 884.55469pt x 275.52937pt>
-File: "q6/rmscalc".png Graphic file (type png)
-<use "q6/rmscalc".png>
-Package pdftex.def Info: "q6/rmscalc".png  used on input line 185.
-(pdftex.def)             Requested size: 170.71259pt x 85.35855pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.195 \end{document}
-                     [11 <./q6/rmscalc.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
+l.146 \end{document}
+                     [5 <../q3/v1_avg.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
  ("HW1 rapor.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
 Package rerunfilecheck Info: File `"HW1 rapor".out' has not changed.
-(rerunfilecheck)             Checksum: 101B3C1E90001F189C0CD0FE65DB6C5A;276.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 195.
+(rerunfilecheck)             Checksum: 14601E130A4D16CD48436777A606E820;232.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
  ) 
 Here is how much of TeX's memory you used:
- 10729 strings out of 492973
- 160902 string characters out of 3127136
- 355050 words of memory out of 3000000
- 14430 multiletter control sequences out of 15000+200000
+ 10672 strings out of 492973
+ 159821 string characters out of 3127136
+ 355606 words of memory out of 3000000
+ 14392 multiletter control sequences out of 15000+200000
  9883 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,7n,39p,229b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,8n,39p,483b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "HW1 rapor.pdf" (12 pages, 637054 bytes).
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on "HW1 rapor.pdf" (6 pages, 326110 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
